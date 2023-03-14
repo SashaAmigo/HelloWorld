@@ -21,8 +21,8 @@
                                 <rect key="frame" x="25" y="59" width="343" height="353"/>
                                 <color key="backgroundColor" name="AccentColor"/>
                             </view>
-                            <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="voz-un-f24">
-                                <rect key="frame" x="25" y="443" width="341" height="375"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="voz-un-f24">
+                                <rect key="frame" x="25" y="452" width="341" height="366"/>
                                 <color key="backgroundColor" systemColor="systemYellowColor"/>
                             </view>
                         </subviews>
